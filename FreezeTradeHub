@@ -18,6 +18,7 @@ getgenv().TARGET_BRAINROTS = {
     ["La Jolly Grande"] = true,
     ["Meowl"] = true,
     ["Skibidi Toilet"] = true,
+    ["Monry Money Puggy"] = true,
     ["Strawberry Elephant"] = true,
     ["Nacho Spyder"] = true,
     ["Esok Sekolah"] = true,
