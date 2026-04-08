@@ -38,6 +38,7 @@ getgenv().TARGET_BRAINROTS = {
     ["Elefanto Frigo"] = true,
     ["Spaghetti Tualetti"] = true,
     ["Los Spaghettis"] = true,
+    ["Esok Sekolah"] = true,
     ["Sammyni Fattini"] = true,
     ["Rosetti Tualetti"] = true,
     ["Tirilikalika Tirilikalako"] = true,
